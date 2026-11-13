@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Doc-editor.py logo" width="180" />
+</p>
+
 # Document Image Editor
 
 A Streamlit tool for extracting text from document images and making visual edits to selected regions.
